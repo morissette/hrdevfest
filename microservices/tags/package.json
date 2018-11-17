@@ -1,0 +1,19 @@
+{
+  "name": "tags",
+  "version": "1.0.0",
+  "description": "A Sample Tags Microservice",
+  "main": "tags.js",
+  "dependencies": {
+    "boom": "^4.2.0",
+    "hapi": "^16.0.1",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node tags.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Harris",
+  "license": "ISC"
+}
